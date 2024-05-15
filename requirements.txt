@@ -1,5 +1,5 @@
-numpy==1.24.3
-Flask==2.2.2
+numpy==1.26.0
+Flask==3.0.1
 mwrogue==0.1.5
 mwcleric==0.9.5
 mwclient==0.10.1

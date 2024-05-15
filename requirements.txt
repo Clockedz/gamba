@@ -1,0 +1,7 @@
+numpy==1.24.3
+Flask==2.2.2
+mwrogue==0.1.5
+mwcleric==0.9.5
+mwclient==0.10.1
+mwparserfromhell==0.6.6
+pandas==2.2.1

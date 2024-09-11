@@ -15,7 +15,7 @@ def winning():
     current_date = dt.date.today()
     player = request.args.get('player')
     current_date_str = current_date.strftime('%Y-%m-%d')
-    date = (current_date - dt.timedelta(days=30)).strftime('%Y-%m-%d')
+    date = (current_date - dt.timedelta(days=14)).strftime('%Y-%m-%d')
 
 
     response = site.cargo_client.query(
